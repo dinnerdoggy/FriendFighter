@@ -1,3 +1,11 @@
+### MVP Criteria
+- Two characters that can be controlled by two different players
+- Working attacks / Healthbars
+- Player death
+- A victory screen with an option to restart the match
+
+## Below is the documentation for this starting template
+
 # Unity Project Template
 
 <img width="600" src="./Unity/Assets/Documentation/Images/BestPractices.png" alt="Best Practices">
