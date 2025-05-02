@@ -7,6 +7,10 @@
 - Player death
 - A victory screen with an option to restart the match
 
+### Important!
+Don't manually edit files on your machine outside of Unity. Unity keeps track of metadata and changing files in your OS can cause problems!
+Dragging and dropping files is okay however.
+
 ## Below is the documentation for this starting template
 
 # Unity Project Template
