@@ -1,3 +1,11 @@
+---
+name: Feature Ticket
+about: Use this template to create a new feature or task for the Unity game
+title: "[Feature] "
+labels: enhancement
+assignees: ''
+---
+
 # 🎮 Feature / Task Title
 
 ## 🎯 User Story  
